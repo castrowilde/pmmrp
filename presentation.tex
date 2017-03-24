@@ -1,0 +1,95 @@
+\documentclass[14pt]{beamer}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,bulgarian]{babel}
+\usepackage{amssymb,amsfonts,amsmath,mathtext}
+\usepackage{cite,enumerate,float,indentfirst}
+\usepackage{listings}
+
+\graphicspath{{images/}}
+
+\usetheme{Pittsburgh}
+\usecolortheme{whale}
+
+\setbeamercolor{footline}{fg=blue}
+\setbeamertemplate{footline}{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{}%
+  Стр. \insertframenumber{} от \inserttotalframenumber \hspace*{2ex}
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+\newcommand{\itemi}{\item[\checkmark]}
+
+\title{\small{Обработка на изображения с реакционно-дифузен модел}}
+\author{\small{%
+\emph{Екип:}~Стефан Велинов, Християн Марков, Пламен Никифоров}\\
+\vspace{30pt}%
+ПММРП летен семестър 2017\\
+ФМИ-СУ%
+\vspace{20pt}%
+}
+\date{\small{София, 2017}}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}
+\frametitle{Цели и задачи}
+\begin{itemize}
+  \item \textbf{Запознаване с процеса на дифузия} 
+  \item \textbf{Извеждане на общия вид на уравнение от тип реакция-дифузия} 
+  \item \textbf{Запознаване с механизма на Тюринг за генериране на пространствени структури} 
+  \item \textbf{Изследване на устойчивост за система ОДУ от първи ред} 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Дифузия}
+\begin{itemize}
+  \item Процес на пренос на субстанция или енергия от област с по-висока концентрация към област с по-ниска концентрация
+  \item Всички видове дифузия се подчиняват на едни и същи закони
+  \item Закон на Фик (Fick):
+  $ \frac{\partial \varphi}{\partial t} = D \frac{{\partial}^2 u}{\partial x^2} $
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Реакция-дифузия}
+\begin{itemize}
+  \item $\frac{\partial u}{\partial t} = D_{u} \nabla^2 u + \frac{1}{\varepsilon}\cdot u(1-u)(u-a)-v)$\\
+  $\frac{\partial v}{\partial t} = D_{v} \nabla^2 v + u -bv$
+  \item u и v са концентрациите на активатор и инхибитор
+  \item $D_u$ и $D_v$ са коефициенти на дифузия
+  \item $(0 < \varepsilon < 1), (0 < a < 0.5), b>0$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Механизъм на Тюринг}
+\begin{itemize}
+  \item Продуктите на реакцията се разпределят в обема по различен начин: в някои точки са повече, а в други - по-малко
+  \item Редуващите се сгъстявания и разреждания зависят от скоростта на реакцията и скоростта на дифузията
+  \item Подобни модели се използват в изкуството, архитектурата, дизайна
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Устойчивост на ОДУ от първи род}
+\begin{itemize}
+\item $\frac{\partial u}{\partial x} = f(x,u(x)), x_0 < x \leq X$
+\item начално условие $u(x_0) = u_0$
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\begin{center}
+Благодарим за вниманието!
+\end{center}
+\end{frame}
+
+\end{document} 

@@ -3,9 +3,9 @@ h = 0.1; % x step
 D = 1; % coeff
 X = 1; % X
 T = 10; % max T
-n = X/h; % length horizontally
-m = T/tau; % length vertically
-
+n = X/h; % length horizontally // pixel horizontally
+m = T/tau; % length vertically // pixel vertically
+%A = imread('image2.gif');
 A = ones(m+1,n+1);
 
 for j=1:m+1
@@ -23,6 +23,7 @@ for j=m+1:-1:2
            A(j-1,i) = (tau * D * ( (A(j,i+1) - 2 * A(j,i) + A(j,i-1)) / h^2)) + A(j,i);  
            
        end
+       %imshow(A);
        plot(A(j-1,:));
        F(k) = getframe;
        k=k+1;

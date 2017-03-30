@@ -5,7 +5,8 @@
 \usepackage{amssymb,amsfonts,amsmath,mathtext}
 \usepackage{cite,enumerate,float,indentfirst}
 \usepackage{listings}
-
+\usepackage{animate}
+\usepackage{graphicx}
 \graphicspath{{images/}}
 
 \usetheme{Pittsburgh}
@@ -40,10 +41,10 @@
 \begin{frame}
 \frametitle{Цели и задачи}
 \begin{itemize}
-  \item \textbf{Запознаване с процеса на дифузия} 
-  \item \textbf{Извеждане на общия вид на уравнение от тип реакция-дифузия} 
-  \item \textbf{Запознаване с механизма на Тюринг за генериране на пространствени структури} 
-  \item \textbf{Изследване на устойчивост за система ОДУ от първи ред} 
+  \item \textbf{Запознаване с процеса на дифузия}
+  \item \textbf{Извеждане на общия вид на уравнение от тип реакция-дифузия}
+  \item \textbf{Запознаване с механизма на Тюринг за генериране на пространствени структури}
+  \item \textbf{Изследване на устойчивост за система ОДУ от първи ред}
 \end{itemize}
 \end{frame}
 
@@ -55,6 +56,16 @@
   \item Закон на Фик (Fick):
   $ \frac{\partial \varphi}{\partial t} = D \frac{{\partial}^2 u}{\partial x^2} $
 \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Дифузията в действие}
+\begin{itemize}
+  \item Промяна на температурата с течение на времето
+\end{itemize}
+\begin{center}
+\animategraphics[controls,loop,height=5cm]{5}{./animation/frame_}{0}{123}
+\end{center}
 \end{frame}
 
 \begin{frame}

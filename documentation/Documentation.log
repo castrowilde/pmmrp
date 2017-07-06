@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.23)  23 JUN 2017 18:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.9)  6 JUL 2017 12:28
 entering extended mode
-**./Documentation.tex
-(Documentation.tex
-LaTeX2e <2015/10/01> patch level 2
-Babel <3.9n> and hyphenation patterns for 69 languages loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+**C:/Users/plame/Desktop/pmmrp/documentation/Documentation.tex
+(C:/Users/plame/Desktop/pmmrp/documentation/Documentation.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 70 language(s) loaded.
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -20,54 +20,62 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+) ("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.de
+f"
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 )
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
+"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2013/01/14 v2.14 AMS math features
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+y"
+Package: amsmath 2016/03/03 v2.15a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
-Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
-File: amsgen.sty 1999/11/30 v2.0
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
-Package: amsbsy 1999/11/29 v1.2d
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 199.
 \uproot@=\count88
 \leftroot@=\count89
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 297.
 \classnum@=\count90
 \DOTSCASE@=\count91
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \macc@depth=\count92
 \c@MaxMatrixCols=\count93
 \dotsspace@=\muskip10
@@ -88,37 +96,39 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks18
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cmap\cmap.sty"
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+) ("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cmap\cmap.sty"
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
-
 
 Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
 
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+) ("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
+y"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\cp1251.def"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\cp1251.de
+f"
 File: cp1251.def 2014/10/28 v1.0d Input encoding file
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2016/01/08 3.9n The Babel package
-
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/02/09 3.9q The Babel package
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\bblopts.c
+fg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engl
+ish.ldf"
 Language: english 2012/08/20 v3.3p English support from the babel system
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2016/01/08 3.9n Babel common definitions
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/02/09 3.9q Babel common definitions
 \babel@savecnt=\count99
 \U@D=\dimen112
 )
@@ -126,7 +136,8 @@ File: babel.def 2016/01/08 3.9n Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-bulgarian\bulgarian.ldf"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-bulgarian\bu
+lgarian.ldf"
 Language: bulgarian 2013/10/14 v1.2g Bulgarian support from the babel system
 Package babel Info: Using `T2A' as a default Cyrillic encoding on input line 89
 .
@@ -136,31 +147,38 @@ Package bulgarian.ldf Info: Executing the post 3.9 branch for dates on input li
 ne 302.
 Package babel Info: Making " an active character on input line 344.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.
+cfg"
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.
+def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count100
@@ -168,7 +186,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count101
 \float@exts=\toks22
@@ -176,14 +194,17 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks23
 \@floatcapt=\box29
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
-Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption
+.sty"
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
+y"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
+ty"
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen115
 \captionmargin@=\dimen116
@@ -199,7 +220,8 @@ Package caption Info: float package is loaded.
 \c@subfigure=\count103
 \c@subtable=\count104
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
 \lst@mode=\count105
 \lst@gtempboxa=\box30
 \lst@token=\toks24
@@ -213,29 +235,35 @@ Package caption Info: float package is loaded.
 \lst@lineno=\count110
 \lst@maxwidth=\dimen125
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count111
 \lst@skipnumbers=\count112
 \lst@framebox=\box31
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count113
@@ -251,8 +279,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen133
 \Gm@dimlist=\toks25
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\soul\soul.sty"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\soul\soul.sty"
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@word=\toks26
 \SOUL@lasttoken=\toks27
@@ -293,21 +322,23 @@ LaTeX Warning: Label `fig:noiseimgs' multiply defined.
 )
 \openout1 = `Documentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
 \scratchdimen=\dimen137
@@ -320,6 +351,54 @@ LaTeX Font Info:    ... okay on input line 18.
 \MPnumerator=\count120
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks32
+)
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
@@ -363,95 +442,103 @@ Package caption Info: End \AtBeginDocument code.
 <<t2a.cmap>><<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>> (Documentation.toc
 [1
 
-{C:/Users/Christian-PC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+{C:/Users/plame/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 \tf@toc=\write3
 \openout3 = `Documentation.toc'.
 
-
-[2] <law1.png, id=19, 357.58594pt x 93.34875pt>
+ [2]
+<law1.png, id=21, 357.58594pt x 93.34875pt>
 File: law1.png Graphic file (type png)
  <use law1.png>
-Package pdftex.def Info: law1.png used on input line 54.
+Package pdftex.def Info: law1.png used on input line 61.
 (pdftex.def)             Requested size: 357.58505pt x 93.34851pt.
- [3 <./law1.png>] <diff1.png, id=30, 155.51772pt x 208.5767pt>
+ [3] [4 <./law1.png>] <diff1.png, id=35, 155.51772pt x 208.5767pt>
 File: diff1.png Graphic file (type png)
  <use diff1.png>
-Package pdftex.def Info: diff1.png used on input line 98.
+Package pdftex.def Info: diff1.png used on input line 107.
 (pdftex.def)             Requested size: 77.75867pt x 104.28809pt.
 
-<diff2.png, id=31, 155.51772pt x 207.6619pt>
+<diff2.png, id=36, 155.51772pt x 207.6619pt>
 File: diff2.png Graphic file (type png)
  <use diff2.png>
-Package pdftex.def Info: diff2.png used on input line 102.
+Package pdftex.def Info: diff2.png used on input line 111.
 (pdftex.def)             Requested size: 77.75867pt x 103.83069pt.
 
-<diff3.png, id=32, 155.51772pt x 207.6619pt>
+<diff3.png, id=37, 155.51772pt x 207.6619pt>
 File: diff3.png Graphic file (type png)
  <use diff3.png>
-Package pdftex.def Info: diff3.png used on input line 106.
+Package pdftex.def Info: diff3.png used on input line 115.
 (pdftex.def)             Requested size: 77.75867pt x 103.83069pt.
- [4] [5 <./diff1.png> <./diff2.png> <./diff3.png>]
-<Capturemonostable.png, id=39, 654.94687pt x 459.96844pt>
+ [5 <./diff1.png> <./diff2.png> <./diff3.png>]
+<Capturemonostable.png, id=41, 654.94687pt x 459.96844pt>
 File: Capturemonostable.png Graphic file (type png)
 
 <use Capturemonostable.png>
-Package pdftex.def Info: Capturemonostable.png used on input line 144.
+Package pdftex.def Info: Capturemonostable.png used on input line 170.
 (pdftex.def)             Requested size: 196.48558pt x 137.9916pt.
 
-<Capturebistable.png, id=41, 655.69969pt x 460.72125pt>
+<Capturebistable.png, id=43, 655.69969pt x 460.72125pt>
 File: Capturebistable.png Graphic file (type png)
 
 <use Capturebistable.png>
-Package pdftex.def Info: Capturebistable.png used on input line 148.
+Package pdftex.def Info: Capturebistable.png used on input line 174.
 (pdftex.def)             Requested size: 196.71143pt x 138.21744pt.
- [6 <./Capturemonostable.png> <./Capturebistable.png>] <evolutions.png, id=48, 
-809.27344pt x 527.72156pt>
+ [6]
+<evolutions.png, id=47, 809.27344pt x 527.72156pt>
 File: evolutions.png Graphic file (type png)
  <use evolutions.png>
-Package pdftex.def Info: evolutions.png used on input line 163.
+Package pdftex.def Info: evolutions.png used on input line 186.
 (pdftex.def)             Requested size: 242.7839pt x 158.31769pt.
 
-[7 <./evolutions.png>] [8] [9] [10] <img1.png, id=64, 150.5625pt x 150.5625pt>
+[7 <./Capturemonostable.png> <./Capturebistable.png>]
+Overfull \hbox (8.54356pt too wide) in paragraph at lines 194--194
+[]\T2A/cmr/bx/n/17.28 Реакционно-дифузни сис-те-ми. Не-ус-той-чи-вост на
+ []
+
+[8 <./evolutions.png>] <diffscheme.png, id=59, 444.15938pt x 417.81094pt>
+File: diffscheme.png Graphic file (type png)
+
+<use diffscheme.png>
+Package pdftex.def Info: diffscheme.png used on input line 238.
+(pdftex.def)             Requested size: 310.90944pt x 292.46567pt.
+ [9] [10 <./diffscheme.png>] [11]
+<img1.png, id=69, 150.5625pt x 150.5625pt>
 File: img1.png Graphic file (type png)
-
-<use img1.png>
-Package pdftex.def Info: img1.png used on input line 282.
+ <use img1.png>
+Package pdftex.def Info: img1.png used on input line 312.
 (pdftex.def)             Requested size: 75.28105pt x 75.28105pt.
- <imgbistable.png, id=65, 150.5625pt x 150.5625pt>
+
+<imgbistable.png, id=70, 150.5625pt x 150.5625pt>
 File: imgbistable.png Graphic file (type png)
-
-<use imgbistable.png>
-Package pdftex.def Info: imgbistable.png used on input line 287.
+ <use imgbistable.png>
+Package pdftex.def Info: imgbistable.png used on input line 317.
 (pdftex.def)             Requested size: 75.28105pt x 75.28105pt.
- <imgmonostable.png, id=66, 150.5625pt x 150.5625pt>
+
+<imgmonostable.png, id=71, 150.5625pt x 150.5625pt>
 File: imgmonostable.png Graphic file (type png)
-
-<use imgmonostable.png>
-Package pdftex.def Info: imgmonostable.png used on input line 292.
+ <use imgmonostable.png>
+Package pdftex.def Info: imgmonostable.png used on input line 322.
 (pdftex.def)             Requested size: 75.28105pt x 75.28105pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[11] <img2.png, id=70, 200.75pt x 200.75pt>
+[12 <./img1.png> <./imgbistable.png> <./imgmonostable.png>]
+<img2.png, id=78, 200.75pt x 200.75pt>
 File: img2.png Graphic file (type png)
  <use img2.png>
-Package pdftex.def Info: img2.png used on input line 309.
-(pdftex.def)             Requested size: 100.37474pt x 100.37474pt.
+Package pdftex.def Info: img2.png used on input line 339.
+(pdftex.def)             Requested size: 74.27632pt x 74.27632pt.
 
-<denoising.png, id=71, 150.5625pt x 150.5625pt>
+<denoising.png, id=79, 150.5625pt x 150.5625pt>
 File: denoising.png Graphic file (type png)
  <use denoising.png>
-Package pdftex.def Info: denoising.png used on input line 314.
+Package pdftex.def Info: denoising.png used on input line 344.
 (pdftex.def)             Requested size: 75.28105pt x 75.28105pt.
 
-<denoising2.png, id=72, 150.5625pt x 150.5625pt>
+<denoising2.png, id=80, 150.5625pt x 150.5625pt>
 File: denoising2.png Graphic file (type png)
  <use denoising2.png>
-Package pdftex.def Info: denoising2.png used on input line 319.
+Package pdftex.def Info: denoising2.png used on input line 349.
 (pdftex.def)             Requested size: 75.28105pt x 75.28105pt.
- [12 <./img1.png> <./imgbistable.png> <./imgmonostable.png> <./img2.png (PNG co
-py)> <./denoising.png> <./denoising2.png>]
+ [13 <./img2.png (PNG copy)> <./denoising.png> <./denoising2.png>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -484,48 +571,48 @@ py)> <./denoising.png> <./denoising2.png>]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 342.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 372.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+("C:\Users\plame\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 342.
- [13
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 372.
 
-]
-<rose.png, id=85, 376.40625pt x 250.68657pt>
+[14
+
+] <rose.png, id=90, 376.40625pt x 250.68657pt>
 File: rose.png Graphic file (type png)
  <use rose.png>
-Package pdftex.def Info: rose.png used on input line 385.
+Package pdftex.def Info: rose.png used on input line 416.
 (pdftex.def)             Requested size: 188.20265pt x 125.34297pt.
 
-Overfull \hbox (20.9841pt too wide) in paragraph at lines 385--386
+Overfull \hbox (20.9841pt too wide) in paragraph at lines 416--417
 [][] 
  []
 
-<rose2.png, id=86, 374.90062pt x 252.19218pt>
+<rose2.png, id=91, 374.90062pt x 252.19218pt>
 File: rose2.png Graphic file (type png)
  <use rose2.png>
-Package pdftex.def Info: rose2.png used on input line 390.
+Package pdftex.def Info: rose2.png used on input line 421.
 (pdftex.def)             Requested size: 187.44984pt x 126.09578pt.
 
-Overfull \hbox (20.2313pt too wide) in paragraph at lines 390--391
+Overfull \hbox (20.2313pt too wide) in paragraph at lines 421--422
 [][] 
  []
 
-<rose3.png, id=87, 375.65344pt x 252.19218pt>
+<rose3.png, id=92, 375.65344pt x 252.19218pt>
 File: rose3.png Graphic file (type png)
  <use rose3.png>
-Package pdftex.def Info: rose3.png used on input line 395.
+Package pdftex.def Info: rose3.png used on input line 426.
 (pdftex.def)             Requested size: 187.82625pt x 126.09578pt.
 
-Overfull \hbox (20.6077pt too wide) in paragraph at lines 395--396
+Overfull \hbox (20.6077pt too wide) in paragraph at lines 426--427
 [][] 
  []
 
-[14 <./rose.png> <./rose2.png> <./rose3.png>] [15
+[15 <./rose.png> <./rose2.png> <./rose3.png>] [16
 
 
 ] (Documentation.aux)
@@ -534,34 +621,36 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6446 strings out of 493634
- 89770 string characters out of 3141293
- 197064 words of memory out of 3000000
- 9699 multiletter control sequences out of 15000+200000
- 17689 words of font info for 43 fonts, out of 3000000 for 9000
+ 6803 strings out of 493622
+ 97911 string characters out of 3135140
+ 199223 words of memory out of 3000000
+ 10038 multiletter control sequences out of 15000+200000
+ 18515 words of font info for 44 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 42i,19n,40p,1243b,1215s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Christian-PC/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cm-super/cm
--super-t2a.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/
-Users/Christian-PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx1
-200.pfb><C:/Users/Christian-PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm
--super/sfbx1440.pfb><C:/Users/Christian-PC/AppData/Roaming/MiKTeX/2.9/fonts/typ
-e1/public/cm-super/sfbx1728.pfb><C:/Users/Christian-PC/AppData/Roaming/MiKTeX/2
-.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Users/Christian-PC/AppData/Roam
-ing/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/Christian-PC/
-AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1440.pfb><C:/Users/C
-hristian-PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm2074.pfb
-><C:/Users/Christian-PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/
-sfti1200.pfb>
-Output written on Documentation.pdf (15 pages, 899092 bytes).
+ 42i,19n,40p,1245b,1215s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/plame/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm
+-super-t2a.enc}<C:/Users/plame/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Users/plame/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/plame/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/plame/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/plam
+e/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
+/Users/plame/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Users/plame/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb><C:/Users/plame/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/cm-super/sfbx1095.pfb><C:/Users/plame/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/plame/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/plame/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Users
+/plame/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.p
+fb><C:/Users/plame/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-supe
+r/sfrm1200.pfb><C:/Users/plame/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/cm-super/sfrm1440.pfb><C:/Users/plame/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/cm-super/sfrm2074.pfb><C:/Users/plame/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Documentation.pdf (16 pages, 916690 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
+ 153 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
